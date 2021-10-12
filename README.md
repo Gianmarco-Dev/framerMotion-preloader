@@ -1,6 +1,11 @@
 # Framer Motion Pre-Loader by Venerito G.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To try out the app, just open the terminal and execute the following commands in the main project folder:
+
+####  - npm install 
+####  - npm start
+
 
 ## Available Scripts
 
